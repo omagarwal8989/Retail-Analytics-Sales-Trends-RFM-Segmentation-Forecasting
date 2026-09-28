@@ -1,0 +1,4 @@
+Model,MAE,RMSE,MAPE (%)
+Naive,46859.36,51149.77,19.61
+4-Week Moving Average,14782.39,19779.83,6.36
+Holt Exponential Smoothing,42475.11,47821.35,17.3

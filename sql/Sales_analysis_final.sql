@@ -1,4 +1,3 @@
-
 CREATE TABLE retail_data (
     InvoiceNo   TEXT,
     StockCode   TEXT,
